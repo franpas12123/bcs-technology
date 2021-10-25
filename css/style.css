@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.btn-round {
+  border-radius: 20px;
+  font-size: 0.65rem;
+  letter-spacing: 1px;
+  background-color: #707070;
+  border: 0px;
+}
+
+.breadcrumb-item {
+  font-size: 0.7rem;
+}
+
+.no-border-color {
+  border: none;
+}
+
+.logo {
+  position: absolute;
+  top: 0;
+  left: 5%;
+  z-index: 2;
+}
+
+.content {
+  margin-top: 40px;
+}
